@@ -1,4 +1,4 @@
-# R-study
-learning R
+# Test
+testing GitHub
 
 More edits to follow.
